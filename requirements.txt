@@ -1,0 +1,11 @@
+streamlit==1.25.0
+pillow
+pytesseract
+tensorflow
+qrcode
+numpy
+opencv-python
+sqlalchemy
+python-multipart
+python-dotenv
+requests
